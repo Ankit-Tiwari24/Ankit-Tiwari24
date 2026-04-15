@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects;Learning+Everyday+🚀&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Real+Projects;Learning+Everyday+🚀&center=true&width=500&height=45">
 </p>
 
 ---
@@ -14,11 +14,11 @@
 
 I'm **Ankit Tiwari**, currently pursuing **BCA from IGNOU** and building my career in **Data Analytics**.
 
-I enjoy working with data and turning raw datasets into meaningful insights that help in better decision-making.
+💡 I enjoy transforming raw data into meaningful insights that help in decision-making.
 
 - 📊 Learning: Python, SQL, Excel, Power BI  
 - 📈 Interested in: Data Visualization & Business Insights  
-- 🚀 Focused on real-world data projects  
+- 🚀 Focused on real-world projects  
 
 ---
 
@@ -27,14 +27,14 @@ I enjoy working with data and turning raw datasets into meaningful insights that
 ### 🏨 Hotel Booking Cancellation Analysis
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
 </p>
 
 This project analyzes hotel booking data to uncover **cancellation trends and patterns**.  
-It includes **data cleaning, exploratory data analysis, and visualization** to understand factors like lead time, customer type, and seasonality.
+It includes **data cleaning, exploratory analysis, and visualization**.
 
 👉 [View Full Project](https://github.com/Ankit-Tiwari24/Hotel-booking-trends-and-cancellation-Analysis)
 
@@ -47,9 +47,8 @@ It includes **data cleaning, exploratory data analysis, and visualization** to u
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
 </p>
 
 <p align="center">
@@ -71,7 +70,7 @@ It includes **data cleaning, exploratory data analysis, and visualization** to u
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Featured Repository
 
 <p align="center">
   <a href="https://github.com/Ankit-Tiwari24/Hotel-booking-trends-and-cancellation-Analysis">
@@ -81,16 +80,6 @@ It includes **data cleaning, exploratory data analysis, and visualization** to u
 
 ---
 
-## 🔗 Connect With Me
-
 <p align="center">
-  <a href="https://portfolio-arun.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-✨ <b>Turning Data into Insights • Building Projects • Growing Every Day 🚀</b> ✨
+✨ <b>Turning Data into Insights • Growing Every Day 🚀</b> ✨
 </p>
