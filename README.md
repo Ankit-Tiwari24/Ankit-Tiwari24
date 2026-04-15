@@ -1,16 +1,96 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankit-Tiwari24/Ankit-Tiwari24/main/banner.png" width="100%" />
+</p>
 
-<!--
-**Ankit-Tiwari24/Ankit-Tiwari24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ankit Tiwari</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects;Learning+Everyday+🚀&center=true&width=500&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+I'm **Ankit Tiwari**, currently pursuing **BCA from IGNOU** and building my career in **Data Analytics**.
+
+I enjoy working with data and turning raw datasets into meaningful insights that help in better decision-making.
+
+- 📊 Learning: Python, SQL, Excel, Power BI  
+- 📈 Interested in: Data Visualization & Business Insights  
+- 🚀 Focused on real-world data projects  
+
+---
+
+## 🚀 Featured Project
+
+### 🏨 Hotel Booking Cancellation Analysis
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+</p>
+
+This project analyzes hotel booking data to uncover **cancellation trends and patterns**.  
+It includes **data cleaning, exploratory data analysis, and visualization** to understand factors like lead time, customer type, and seasonality.
+
+👉 [View Full Project](https://github.com/Ankit-Tiwari24/Hotel-booking-trends-and-cancellation-Analysis)
+
+---
+
+## ⚙️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Tiwari24&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ankit-Tiwari24&theme=tokyonight"/>
+</p>
+
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Ankit-Tiwari24/Hotel-booking-trends-and-cancellation-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Tiwari24&repo=Hotel-booking-trends-and-cancellation-Analysis&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://portfolio-arun.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ <b>Turning Data into Insights • Building Projects • Growing Every Day 🚀</b> ✨
+</p>
